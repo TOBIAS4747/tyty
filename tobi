@@ -1,0 +1,28 @@
+#tobi
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('https://img.freepik.com/fotos-premium/campo-estrellas-alta-definicion-espacio-colorido-cielo-nocturno-nebulosa-galaxias-espacio-fondo-concepto-astronomia_232070-8070.jpg');
+<p>
+<img src= "https://static.javatpoint.com/tutorial/arduino/images/arduino-uno2.png">
+Arduino es una plataforma de creación de electrónica de código abierto, la cual está basada en hardware y 
+software libre, flexible y fácil de utilizar para los creadores y desarrolladores
+<p>
+IDEAS:
+Dado electrónico (nivel principiante)
+Sensor de distanciamiento social (nivel principiante)
+Rastreador de luz (nivel principiante)
+La nevera que te sigue (nivel intermedio)
+Reloj de arena digital (nivel intermedio)
+Coche teledirigido por Bluetooth (nivel intermedio)
+El robot pintor (nivel avanzado)
+Cúpula de LED interactiva (nivel avanzado)
+<p>
+ el Arduino UNO soportará como máximo una carga de 435 mA
+<p>
+tiene diferentes usos, como la aplicación de desarrolladores de diseños artísticos e interactivos; de igual forma, muchas 
+personas utilizan Arduino para incursionar en aplicaciones tecnológicas, como la automatización y la robótica.
+<p>
+FIN
